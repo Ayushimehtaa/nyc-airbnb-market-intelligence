@@ -1,4 +1,5 @@
 # NYC Airbnb Market Intelligence
+![NYC Airbnb Dashboard](dashboard.png)
 
 ## Project Overview
 This project explores publicly available Airbnb listing data in New York City using Tableau. The goal is to understand how listing distribution, nightly prices, reviews, and room types vary across NYC boroughs.
