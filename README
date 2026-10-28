@@ -1,0 +1,45 @@
+# NYC Airbnb Market Intelligence
+
+## Project Overview
+This project explores publicly available Airbnb listing data in New York City using Tableau. The goal is to understand how listing distribution, nightly prices, reviews, and room types vary across NYC boroughs.
+
+The interactive dashboard presents key market patterns through visualizations that make the data easier to explore and interpret.
+
+## Dashboard
+**[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ayushi.mehta7833/viz/NYC_Airbnb_Market_Intelligence_twbx/NYCAirbnbMarketIntelligence?publish=yes)**
+
+## Business Questions
+- Which NYC boroughs have the most Airbnb listings?
+- How does median nightly listing price vary by borough?
+- How do median review counts differ across boroughs?
+- Which room types are most common?
+- How are listings geographically distributed across NYC?
+
+## Key Visualizations
+- **Listings by Borough:** Compares listing counts across the five boroughs.
+- **Median Price by Borough:** Compares typical nightly listing prices.
+- **Median Reviews by Borough:** Examines differences in listing review counts.
+- **Listings by Room Type:** Shows the distribution of available room types.
+- **Geographic Listing Map:** Visualizes listing locations across NYC and distinguishes room types.
+
+## Tools Used
+- Tableau Public
+- Data visualization
+- Exploratory data analysis
+- Public Airbnb listing data
+
+## Skills Demonstrated
+- Building interactive dashboards
+- Selecting appropriate measures and aggregations
+- Comparing metrics across geographic categories
+- Communicating data patterns through visualizations
+- Translating data into business-oriented questions
+
+## Project Limitations
+This analysis focuses on publicly available listing data. Listing prices and review counts do not directly measure actual bookings, revenue, occupancy, or profitability. Findings describe patterns in the dataset and should not be interpreted as a complete picture of Airbnb's overall business performance.
+
+## Future Improvements
+- Add filters for borough and room type.
+- Explore price differences by room type and neighborhood.
+- Investigate relationships between listing prices and review activity.
+- Add further data validation and trend analysis if suitable data is available.
